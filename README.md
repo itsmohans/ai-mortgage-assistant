@@ -202,7 +202,7 @@ Passing structured typed objects (`LoanInputs`, `BorrowerProfile`) instead of ra
 
 This project is part of a portfolio demonstrating practical AI engineering skills including Python architecture, financial domain modeling, test-driven development, and LLM integration.
 
-[GitHub](https://github.com/itsmohans) · [LinkedIn](#)
+[GitHub](https://github.com/itsmohans) · [LinkedIn](https://www.linkedin.com/in/mohanprasadt/)
 
 ---
 
