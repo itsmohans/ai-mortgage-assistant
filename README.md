@@ -198,7 +198,7 @@ Passing structured typed objects (`LoanInputs`, `BorrowerProfile`) instead of ra
 
 ## 👤 Author
 
-**Mapla** · Senior Business Systems Analyst transitioning to AI/Product/Data roles.
+**Mohan Prasad T** · Senior Business Systems Analyst transitioning to AI/Product/Data roles.
 
 This project is part of a portfolio demonstrating practical AI engineering skills including Python architecture, financial domain modeling, test-driven development, and LLM integration.
 
